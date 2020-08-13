@@ -5,11 +5,15 @@ This project is a fully operational game created in the Unity engine.
 In this repository you will find:
 
 - Game scripts
-- Executable file
 - Game design document
+- Readme file for installation guide
 
-INSTALATION:
+INSTALATION GUIDE:
 
-1. Download the Chromatism.exe file onto your computer
-2. Open the executable file
-3. Have fun!
+Due to the file size restrictions of GitHub, I have saved all game files in a public Google Drive folder.
+
+1. Go to https://drive.google.com/drive/folders/1BeDDNNXS3SQfwaRbOtxBzBq3UDmuLKOt?usp=sharing
+2. Download the .zip file in your computer
+3. Unzip the file
+4. Open the unzipped folder and run Chromatism.exe
+5. Have fun!
